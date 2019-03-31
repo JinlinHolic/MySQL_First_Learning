@@ -16,3 +16,7 @@ MySQL安装启动
 Navicat for SQL
 
 下载好了后 准备跟mysql连接 并复制了刚刚上面的初始密码 连接号可随意取 但发生了一个系统报错 具体如下图
+
+
+        ![image]
+        (https://github.com/MySQL_First_Learning/README.md/blob/master/
